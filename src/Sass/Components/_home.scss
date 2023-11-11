@@ -1,0 +1,167 @@
+.navigation{
+    width: 85%;
+    margin: 1rem auto;
+    display: flex;
+    justify-content: space-between;
+
+    .left{
+        display: flex;
+        gap: 1rem;
+
+        .carIcon{
+            color: rgb(29, 142, 253);
+            align-self: center;
+            font-size: 5rem;
+        }
+        .brand{
+            align-self: center;
+            h1{
+                font-size: 2rem;
+                font-weight: 700;
+                color: #494978;
+            }
+            h3{
+                font-size: 1.5rem;
+                font-weight: 400;
+                position: relative;
+                top: -0.9rem;
+                color: #494978;
+            }
+        }
+    }
+    .right{
+        display: flex;
+        gap: 1rem;
+
+        h2{
+            font-size: 1.6rem;
+            color: #494978;
+            align-self: center;
+            font-weight: 600;
+        }
+        button{
+            border: none;
+            background-color: #1d8efd;
+            padding: 0.8rem 1.35rem 0.9rem 1.35rem;
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #fff;
+            border-radius: 0.5rem;
+            font-family: 'Poppins', sans-serif;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            align-self: center;
+            box-shadow: 0 4px 9px 0px rgb(151, 203, 253);
+    
+            &:hover{
+                background-color: rgb(0, 128, 255);
+            }
+          }
+    }
+}
+
+.masterContainer{
+    width: 85%;
+    margin: 0 auto;
+    margin-top: 3rem;
+    display: flex;
+    justify-content: space-between;
+    
+    .left{
+        width: 30%;
+        align-self: center;
+        h2{
+            color: rgb(73, 73, 120);
+            font-size: 1.7rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+        }
+        h1{
+            font-size: 4rem;
+            font-weight: 700;
+            color: rgb(73, 73, 120);
+            line-height: 1.2;
+
+            span{
+                color:#1d8efd ;
+            }
+
+        }
+        p{
+            font-size: 1.3rem;
+            font-weight: 500;
+            color: #707070;
+            line-height: 1.7;
+            margin: 1.5rem 0 2rem 0;
+        }
+
+        button{
+            border: none;
+            background-color: rgb(29, 142, 253);
+            padding: 0.8rem 1.35rem 0.9rem 1.35rem;
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #fff;
+            border-radius: 0.5rem;
+            font-family: 'Poppins', sans-serif;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+            
+            .arrow{
+                font-size: 2.5rem;
+                animation: arrowLR 0.5s ease-in-out  infinite alternate-reverse ;
+            }
+            &:hover{
+              background-color: rgb(0, 128, 255);
+            }
+          }
+
+    }
+    .right{
+        width: 70%;
+        display: flex;
+        img{
+            width: 100%;
+        }
+    }
+}
+
+.notice{
+    text-align: center;
+    .noticeArrow{
+        font-size: 4rem ;
+        color: #494978;
+        font-weight: 700;
+        animation: arrow 0.5s ease-in-out  infinite alternate-reverse;
+    }
+    p{
+        font-size: 2rem;
+        font-weight: 500;
+        color:#494978;
+
+        span{
+            color: #1d8efd;
+        }
+    }
+}
+
+@keyframes arrow {
+    0%{
+        transform: translateY(10%);
+    }
+    100%{
+        transform: translateY(-10%);
+    }
+}
+@keyframes arrowLR {
+    0%{
+        transform: translateX(20%);
+    }
+    100%{
+        transform: translateX(-10%);
+    }
+}

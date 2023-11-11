@@ -1,0 +1,84 @@
+.detail{
+    width: 85%;
+    margin: 5rem auto;
+    display: flex;
+    gap: 4rem;
+    
+    .left{
+        width: 50%;
+        display: flex;
+        border-radius: 1rem;
+        overflow: hidden;
+        img{
+            width: 100%;
+        }
+    }
+    .right{
+       padding-top: 5rem;
+        h1{
+            font-size: 3.5rem;
+            display: flex;
+            font-weight: 700;
+            color: #494978;
+            
+            span{
+                font-size: 2rem;
+                border: 0.1rem dashed #1d8efd;
+                padding: 0.5rem;
+                border-spacing: 0.2rem;
+                margin-left: 2rem;
+                font-weight: 600;
+                border-radius: 1rem;
+                align-self: center;
+            }
+        }
+        h2{
+            font-size: 2.8rem;
+            font-weight: 600;
+            color: #494978;
+            span{
+                font-size: 1.5rem;
+            }
+        }
+        .secondBlock{
+            margin-top: 1rem;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            padding-bottom: 1.7rem;
+            row-gap: 1rem;
+        
+            .same{
+              display: flex;
+              gap: 0.5rem;
+              font-size: 1.65rem;
+              color: rgb(73, 73, 120);
+              align-items: center;
+              font-weight: 500;
+        
+             .carIcon{
+              color: rgb(0, 106, 255);
+              font-size: 1.8rem;
+             }
+            }
+          }
+        button{
+            margin-top: 1rem;
+            border: none;
+            background-color: #1d8efd;
+            padding: 0.8rem 1.35rem 0.9rem 1.35rem;
+            font-size: 1.5rem;
+            font-weight: 500;
+            color: #fff;
+            border-radius: 0.5rem;
+            font-family: 'Poppins', sans-serif;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            align-self: center;
+            box-shadow: 0 4px 9px 0px rgb(151, 203, 253);
+    
+            &:hover{
+                background-color: rgb(0, 128, 255);
+            }
+          }
+    }
+}

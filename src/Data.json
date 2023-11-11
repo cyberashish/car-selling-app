@@ -1,0 +1,602 @@
+[
+    {
+    "carId": 1,
+    "carName":"Renault Kiger",
+    "modelYear":2020,
+    "capacity":4,
+    "fuelType":"Hybrid",
+    "mileage":6.1,
+    "rent":440,
+    "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Kiger/10042/1683117510296/front-left-side-47.jpg"
+    },
+    {
+        "carId": 2,
+        "carName":"Tata Nexon",
+        "modelYear":2019,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.2,
+        "rent":350,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Nexon/9675/1695710737561/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId": 3,
+        "carName":"Mahindra Thar",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":5.3,
+        "rent":400,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Thar/10743/1690192572470/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":4,
+        "carName":"Hyundai Exter",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.7,
+        "rent":620,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Exter/10443/1694584843066/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":5,
+        "carName":"Tata Punch",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.6,
+        "rent":530,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Punch/10681/1691392713058/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":6,
+        "carName":"Hyundai Creta",
+        "modelYear":2019,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.2,
+        "rent":490,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Creta/10544/1689588616959/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":7,
+        "carName":"Maruti Brezza",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.7,
+        "rent":430,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/Brezza/10388/1694424068944/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":8,
+        "carName":"Toyota Fortuner",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.1,
+        "rent":630,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner/10903/1695443447797/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":9,
+        "carName":"Kia Seltos",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.5,
+        "rent":730,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Seltos-2023/8709/1688465684023/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":10,
+        "carName":"Mahindra XUV700",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.8,
+        "rent":670,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/XUV700/10802/1695444616873/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":11,
+        "carName":"Maruti FRONX",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":5.8,
+        "rent":540,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Maruti/FRONX/9243/1673943130006/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":12,
+        "carName":"Mahindra Bolero",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":5.8,
+        "rent":440,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Bolero/10754/1690259283519/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":13,
+        "carName":"Kia Sonet",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.2,
+        "rent":610,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Kia/Sonet/10879/1690461063637/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":14,
+        "carName":"Hyundai Venue",
+        "modelYear":2019,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.5,
+        "rent":810,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Venue/10142/1684739946788/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":15,
+        "carName":"Tata Harrier",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.5,
+        "rent":550,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier/9850/1681887437871/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":16,
+        "carName":"Mahindra Scorpio N",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.1,
+        "rent":650,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mahindra/Scorpio-N/10817/1690351800434/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":17,
+        "carName":"Land Rover Range Rover",
+        "modelYear":2020,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.9,
+        "rent":850,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover/9018/1676541159356/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":18,
+        "carName":"Toyota Land Cruiser 300",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.9,
+        "rent":750,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Land-Cruiser/8448/1623313668941/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":19,
+        "carName":"Land Rover Defender",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":5.9,
+        "rent":820,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Defender/9065/Land-Rover-Defender-2.0-90-HSE/1686138012912/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":20,
+        "carName":"Lexus UX",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.2,
+        "rent":920,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/Lexus-UX/6227/1551078940066/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":21,
+        "carName":"BYD SealBYD",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":5.2,
+        "rent":520,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BYD/Seal/9561/1676620253526/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":23,
+        "carName":"Mercedes-Benz",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.2,
+        "rent":720,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLC-Coupe-2023/9730/1678950667198/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":24,
+        "carName":"Ferrari Purosangue",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.2,
+        "rent":620,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ferrari/Purosangue/9317/1663156716477/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":25,
+        "carName":"Ford Mustang Mach E",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.2,
+        "rent":820,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Mustang-Mach-E/8599/1631273636169/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":26,
+        "carName":"Skoda Octavia RS iV",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.2,
+        "rent":520,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Skoda/Octavia-RS-iV/9524/1672834846961/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":27,
+        "carName":"Volkswagen Polo 2023",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.2,
+        "rent":630,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Volkswagen/Polo-2022/8416/1693808332266/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":28,
+        "carName":"Fisker Ocean",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.2,
+        "rent":670,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Fisker/Ocean/8964/1650015333966/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":29,
+        "carName":"Tata Harrier",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.7,
+        "rent":870,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Harrier-2023/9368/1696401522811/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":30,
+        "carName":"Tata Safari",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.1,
+        "rent":850,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Safari-2023/9485/1696401282719/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":31,
+        "carName":"Lamborghini Revuelto",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.1,
+        "rent":610,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Lamborghini/Revuelto/9770/1680237730530/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":32,
+        "carName":"Nissan X-Trail",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.4,
+        "rent":680,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/X-Trail/3372/1666087743726/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":33,
+        "carName":"Mclaren 750S",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.1,
+        "rent":780,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mclaren/750-s/9929/1682577543178/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":34,
+        "carName":"Lexus LM ",
+        "modelYear":2021,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.1,
+        "rent":620,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/LM-2023/9569/1681906147755/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":35,
+        "carName":"Renault Arkana",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.7,
+        "rent":650,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Renault/Renault-Arkana/6573/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":36,
+        "carName":"Mercedes-Benz EQA",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.1,
+        "rent":780,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQA/8276/1611229665131/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":37,
+        "carName":"Lexus UX",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.1,
+        "rent":730,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Lexus/Lexus-UX/6227/1551078940066/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":38,
+        "carName":"Lexus UX",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.8,
+        "rent":690,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/3/7574/1581578675358/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":39,
+        "carName":"MG 3",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.8,
+        "rent":920,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/3/7574/1581578675358/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":40,
+        "carName":"Audi A3 2023",
+        "modelYear":2022,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.1,
+        "rent":980,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A3-2021/7785/1587461646847/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":41,
+        "carName":"BMW M3",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.5,
+        "rent":610,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/M3/8048/1601034227530/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":42,
+        "carName":"Land Rover Range Rover Evoque",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.8,
+        "rent":760,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Land-Rover/Range-Rover-Evoque-2023/10339/1687502014490/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":43,
+        "carName":"MG Baojun 510",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.8,
+        "rent":710,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/MG-Baojun-510/6836/1551270328541/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":44,
+        "carName":"Jaguar F-TYPE R-Dynamic Black",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.8,
+        "rent":820,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Jaguar/F-TYPE/10648/1690012183949/front-left-side-47.jpg?imwidth=420&impolicy=resize"
+        },
+    {
+        "carId":45,
+        "carName":"Mercedes-Benz EQS SUV",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.8,
+        "rent":860,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/EQS-SUV/8970/1650439036236/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":46,
+        "carName":"Tata Altroz Racer",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.2,
+        "rent":560,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tata/Altroz-Racer/9563/1679487534196/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":47,
+        "carName":"Toyota Innova Crysta 2.4 G 8 STR",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.2,
+        "rent":610,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Innova-Crysta/9612/1680599962805/front-left-side-47.jpg?imwidth=420&impolicy=resize"
+        },
+    {
+        "carId":48,
+        "carName":"Tesla Cybertruck",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.8,
+        "rent":714,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Tesla/Cybertruck/7236/1574859399554/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":49,
+        "carName":"Ford Mustang",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.3,
+        "rent":780,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Ford/Mustang-2024/7939/1663750110692/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":50,
+        "carName":"MG 5 EV",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.1,
+        "rent":880,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/5-EV/9529/1686657031455/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":51,
+        "carName":"Hyundai Staria",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.7,
+        "rent":580,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Staria/8406/1616056515462/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":52,
+        "carName":"BMW i5",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.1,
+        "rent":530,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/BMW/i5/10181/1685002671982/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":53,
+        "carName":"Toyota bZ4X",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.1,
+        "rent":730,
+        "imgUrl": "https://stimg.cardekho.com/images/car-images/630x420/Toyota/bZ4X/9538/1673357224590/front-left-side-47.jpg"
+        },
+    {
+        "carId":54,
+        "carName":"Mercedes-Benz GLA",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.6,
+        "rent":790,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLA-2024/9731/1679039244149/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":55,
+        "carName":"Mercedes-Benz GLB",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":7.6,
+        "rent":810,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/GLB-2024/9732/1679039096398/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":56,
+        "carName":"Nissan Qashqai",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.3,
+        "rent":910,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Nissan/Qashqai/9405/1666158827716/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":57,
+        "carName":"MG eHS",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.3,
+        "rent":510,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/eHS/9540/1673855026352/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":58,
+        "carName":"Skoda Enyaq iV",
+        "modelYear":2023,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.6,
+        "rent":570,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/eHS/9540/1673855026352/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":59,
+        "carName":"Audi Q8",
+        "modelYear":2024,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":8.6,
+        "rent":970,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/Q8-2024/11087/1693916254117/front-left-side-47.jpg?tr=w-456"
+        },
+    {
+        "carId":60,
+        "carName":"MG 4 EV",
+        "modelYear":2024,
+        "capacity":4,
+        "fuelType":"Gasoline",
+        "mileage":6.6,
+        "rent":870,
+        "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/MG/4-EV/9523/1672834026501/front-left-side-47.jpg?tr=w-456"
+        },
+        {
+            "carId":61,
+            "carName":"Hyundai Venue",
+            "modelYear":2019,
+            "capacity":4,
+            "fuelType":"Gasoline",
+            "mileage":7.5,
+            "rent":810,
+            "imgUrl": "https://stimg.cardekho.com/images/carexteriorimages/630x420/Hyundai/Venue/10142/1684739946788/front-left-side-47.jpg?tr=w-456"
+            }
+    ]

@@ -1,0 +1,287 @@
+
+.carSearch{
+  background-color: rgb(233, 239, 247);
+header{
+    width: 100%;
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    backdrop-filter: blur(5px);
+    z-index: 2;
+
+    .getInfo{
+        width: 100%;
+        padding: 2rem;
+        display: flex;
+        gap: 3.2rem;
+        background-color: rgba(243, 248, 255, 0.8);
+        border-radius: 2rem;
+        box-shadow: 0px 6px 10px -5px #dbdbdb;
+        padding: 1.5rem 2rem;
+        border: 0.1rem solid #fff;
+
+        .search{
+            background-color: #fff;
+            border-radius: 1.5rem;
+            display: flex;
+            padding-right: 2rem;
+            border: 0.1rem solid rgb(239, 239, 239);
+            
+            input{
+                outline: none;
+                border: none;
+                font-family: lato;
+                background: #fff;
+                font-size: 1.6rem;
+                font-family: 'Poppins', sans-serif;
+                border-radius: 2rem;
+                height: 3.8rem;
+                padding-left: 2rem;
+
+                &::placeholder{
+                    color: rgb(73, 73, 120);
+                }
+            }
+            .searchIcon{
+                font-size: 2rem;
+                font-weight: bold;
+                align-self: center;
+                color: rgb(73, 73, 120);
+            }
+        }
+      .relevance{
+        align-self: center;
+          h1{
+            font-size: 1.5rem;
+            color: rgb(73, 73, 120);
+            font-weight: 400;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+             
+            .down{
+                font-size: 1rem;
+            }
+          }
+      }  
+      .brands{
+        align-self: center;
+          h1{
+            font-size: 1.5rem;
+            color: rgb(73, 73, 120);
+            font-weight: 400;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 0.5rem;
+            .down{
+                font-size: 1rem;
+                font-weight: 600;
+            }
+          }
+      }  
+      .home{
+        border: none;
+        background-color: rgb(29, 142, 253);
+        padding: 0.34rem 1.35rem 0.5rem 1.35rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #fff;
+        border-radius: 1.2rem;
+        font-family: 'Poppins', sans-serif;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        align-self: center;
+
+        &:hover{
+          background-color: rgb(0, 128, 255);
+        }
+      }
+    }
+}
+
+.carSection{
+  width: 100%;
+  padding: 1rem 2rem;
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 2rem;
+
+  .card{
+    padding: 1rem;
+    box-shadow: 0px 6px 10px -5px #dbdbdb;
+    border-radius: 1.7rem;
+    background-color: rgba(243, 248, 255, 0.8);
+    border: 0.1rem solid #fff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+
+    &:hover{
+      box-shadow: rgba(0, 0, 0, 0.15) 0px 15px 25px, rgba(0, 0, 0, 0.05) 0px 5px 10px;
+      transform: translateY(-1.5%);
+    }
+
+    figure{
+      display: flex;
+      border-radius: 1.7rem;
+      overflow: hidden;
+      img{
+        width: 100%;
+      }
+    }
+
+ .infoBlock{
+  padding: 2rem 1rem 1.3rem 1rem;
+  .firstBlock{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 1rem;
+
+    h1{
+      font-size: 2.1rem;
+      color: rgb(73, 73, 120);
+      font-weight: 500;
+
+    }
+    h3{
+      padding: 0.3rem 1rem;
+      border: dashed 0.2rem rgb(152, 217, 255);
+      border-radius: 1.2rem;
+      align-self: center;
+      border-spacing: 0.2rem;
+      color: rgb(73, 73, 120);
+      font-weight: 600;
+      font-size: 1.3rem;
+    }
+  }
+
+  .secondBlock{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-bottom: 1.7rem;
+    border-bottom: 0.1rem solid #dbdbdb;
+    row-gap: 1rem;
+
+    .same{
+      display: flex;
+      gap: 0.5rem;
+      font-size: 1.35rem;
+      color: rgb(73, 73, 120);
+      align-items: center;
+      font-weight: 500;
+
+     .carIcon{
+      color: rgb(0, 106, 255);
+      font-size: 1.8rem;
+     }
+    }
+  }
+
+  .thirdBlock{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1.8rem;
+    .right{
+      p{
+        font-size: 2.3rem;
+        color: rgb(73, 73, 120);
+        font-weight: 500;
+
+        span{
+          font-size: 1.2rem;
+        }
+      }
+    }
+
+    .left{
+      display: flex;
+      gap: 1rem;
+      .heart{
+        border: none;
+        background-color: rgba(207, 225, 250, 0.6);
+        padding: 0.6rem 0.6rem 0.2rem 0.6rem;
+        border-radius: 1.1rem;
+        align-self: center;
+        color: #4e93ff;
+        font-size: 1.8rem;
+        cursor: pointer;
+      }
+      .btnRent{
+        border: none;
+        background-color: rgb(29, 142, 253);
+        padding: 0.34rem 1.35rem 0.5rem 1.35rem;
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #fff;
+        border-radius: 1.2rem;
+        font-family: 'Poppins', sans-serif;
+        cursor: pointer;
+        transition: all 0.3s ease;
+
+        &:hover{
+          background-color: rgb(0, 128, 255);
+        }
+      }
+    }
+  }
+ }
+  }
+}
+}
+footer{
+  width: 100%;
+  padding: 1rem 2rem;
+  .getInfo{
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    gap: 3.2rem;
+    background-color: rgba(243, 248, 255, 0.8);
+    border-radius: 2rem;
+    box-shadow: 0px 6px 10px -5px #dbdbdb;
+    padding: 1.5rem 2rem;
+    border: 0.1rem solid #fff; 
+    justify-content: flex-end;  
+
+ .pgn{
+  width: fit-content;
+  display: flex;
+  gap: 1.5rem;
+  ul{
+    list-style-type: none;
+    display: flex;
+    gap: 1rem;
+    align-self: center;
+    li{
+      button{
+        border: none;
+        text-decoration: none;
+        font-size: 1.5rem;
+        font-weight: 400;
+        color: rgb(73, 73, 120);
+        padding: 0.3rem 1rem;
+        border-radius: 0.8rem;
+        background-color: #fff;
+        box-shadow: 0px 6px 10px -5px #b3b3b3;
+        cursor: pointer;
+      }
+    }
+  }
+  .left,.right{
+    font-size: 1.5rem;
+    font-weight: 400;
+    color: rgb(73, 73, 120);
+    padding: 0.58rem 0.7rem;
+    border-radius: 0.8rem;
+    background-color: #fff;
+    box-shadow: 0px 6px 10px -5px #b3b3b3;
+    align-self: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+ }
+  }
+}
